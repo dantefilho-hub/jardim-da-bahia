@@ -1,12 +1,15 @@
-# Açaí da Rita
+# Jardim da Bahia
 
-Site institucional de exemplo da Açaí da Rita, em Candeias (BA). Modelo do docente para o Projeto Integrador de Projeto de Front-End (SENAI). O negócio e os dados de contato são fictícios.
+O Jardim da Bahia é um espaço dedicado à natureza, com foco em plantas, flores e jardinagem. Nosso objetivo é proporcionar beleza, tranquilidade e contato com a natureza, incentivando o cuidado com o meio ambiente.
 
-Site publicado: https://andersongomesmeireles.github.io/acai-da-rita/
+Site publicado: https://github.com/dantefilho-hub/jardim-da-bahia
 
 ## Funcionalidades
-- Cardápio com filtro por categoria
-- Formulário de pedido com validação
+- Apresentação do jardim.
+- Catálogo de plantas e flores.
+- Infromações sobre os produtos.
+- Seção de contato.
+- Informações sobre o estabelecimento.
 
 ## Tecnologias
 HTML5, CSS3, JavaScript, Git, GitHub Pages
