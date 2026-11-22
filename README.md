@@ -22,8 +22,8 @@ HTML5, CSS3, JavaScript, Git, GitHub Pages
 
 ## Squad Jardim Encantado
 
-- Nome · Dev de Deploy
-- Nome · Scrum Master
-- Nome · Apresentador
-- Nome · Product Owner
-- Nome · Documentador
+- Raphael/ Dante · Dev de Deploy
+- Bruna · Scrum Master
+- Jayanne · Apresentador
+- Ilana · Product Owner
+- Yasmin · Documentador
