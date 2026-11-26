@@ -1,13 +1,13 @@
 # Jardim da Bahia
 
-O Jardim da Bahia é um espaço dedicado à natureza, com foco em plantas, flores e jardinagem. Nosso objetivo é proporcionar beleza, tranquilidade e contato com a natureza, incentivando o cuidado com o meio ambiente.
+O Jardim da Bahia é uma floricultura de Candeias (BA), da Dona Lúcia Almeida. O site apresenta o catálogo de buquês, arranjos, plantas e presentes, com entrega no mesmo dia e recebimento de encomendas para datas especiais.
 
-Site publicado: https://github.com/dantefilho-hub/jardim-da-bahia
+Site publicado: https://dantefilho-hub.github.io/jardim-da-bahia/
 
 ## Funcionalidades
-- Apresentação do jardim.
-- Catálogo de plantas e flores.
-- Infromações sobre os produtos.
+- Apresentação da floricultura.
+- Catálogo de buquês, arranjos, plantas e presentes, com filtro por categoria.
+- Informações sobre os produtos.
 - Seção de contato.
 - Informações sobre o estabelecimento.
 
@@ -19,3 +19,11 @@ HTML5, CSS3, JavaScript, Git, GitHub Pages
 - css/style.css
 - js/script.js
 - img/
+
+## Squad Jardim Encantado
+
+- Raphael/ Dante · Dev de Deploy
+- Bruna · Scrum Master
+- Jayanne · Apresentador
+- Ilana · Product Owner
+- Yasmin · Documentador
